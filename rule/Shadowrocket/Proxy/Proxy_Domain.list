@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-28 02:08:10
+# UPDATED: 2026-02-06 02:20:07
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6565
+# DOMAIN-SUFFIX: 6597
 # IP-CIDR: 97
 # USER-AGENT: 8
-# TOTAL: 6705
+# TOTAL: 6737
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -224,6 +224,7 @@
 .ai-kan.net
 .ai-wen.net
 .ai.dev
+.ai.studio
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -263,6 +264,7 @@
 .aliengu.com
 .alive.bar
 .aljazeera.com
+.aljazeera.net
 .alkasir.com
 .all4mom.org
 .allcoin.com
@@ -333,7 +335,10 @@
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
+.annas-archive.in
+.annas-archive.li
 .annas-archive.org
+.annas-archive.pm
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -501,6 +506,7 @@
 .babylonbee.com
 .babynet.com.hk
 .backchina.com
+.backend-v2.crixet.com
 .backpackers.com.tw
 .backtotiananmen.com
 .bad.news
@@ -545,6 +551,7 @@
 .bbc.co.uk
 .bbc.com
 .bbc.in
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -1357,6 +1364,7 @@
 .dayabook.com
 .daylife.com
 .dayone.me
+.dazn.com
 .db.tt
 .dbc.hk
 .dbgjd.com
@@ -2017,6 +2025,7 @@
 .freess.org
 .freessh.us
 .freetcp.com
+.freeterabox.com
 .freetibet.net
 .freetibet.org
 .freetibetanheroes.org
@@ -2196,6 +2205,7 @@
 .gfw.press
 .gfw.report
 .gfwatch.org
+.gfwbao.com
 .gfwlist.end
 .gfwlist.start
 .gfx.ms
@@ -3732,6 +3742,7 @@
 .mytalkbox.com
 .myteamspeak.com
 .mytizi.com
+.mytvsuper.com
 .mywife.cc
 .mywww.biz
 .myz.info
@@ -4062,6 +4073,8 @@
 .onthehunt.com
 .ontrac.com
 .oojj.de
+.ooni.io
+.ooni.org
 .oopsforum.com
 .ooyala.com
 .open.com.hk
@@ -4192,6 +4205,7 @@
 .pdetails.com
 .pdfexpert.com
 .pdproxy.com
+.pdst.fm
 .peace.ca
 .peacefire.org
 .peacehall.com
@@ -4260,14 +4274,23 @@
 .pinoy-n.com
 .pinterest.at
 .pinterest.ca
+.pinterest.cl
 .pinterest.co.kr
 .pinterest.co.uk
 .pinterest.com
+.pinterest.com.au
+.pinterest.com.mx
 .pinterest.de
 .pinterest.dk
+.pinterest.es
 .pinterest.fr
+.pinterest.ie
+.pinterest.it
 .pinterest.jp
 .pinterest.nl
+.pinterest.nz
+.pinterest.ph
+.pinterest.pt
 .pinterest.se
 .pipii.tv
 .piposay.com
@@ -4732,6 +4755,7 @@
 .seesmic.com
 .seevpn.com
 .seezone.net
+.sef.org.tw
 .sehuatang.net
 .sehuatang.org
 .sejie.com
@@ -4836,6 +4860,7 @@
 .sijihuisuo.com
 .silkbook.com
 .silvergatebank.com
+.simianx.ai
 .simp.ly
 .simplecd.me
 .simplecd.org
@@ -5177,6 +5202,7 @@
 .tagwa.org.au
 .tagwalk.com
 .tahr.org.tw
+.tails.net
 .taipei.gov.tw
 .taipeisociety.org
 .taipeitimes.com
@@ -5634,6 +5660,7 @@
 .tv.com
 .tvants.com
 .tvb.com
+.tvbanywhere.com
 .tvboxnow.com
 .tvbs.com.tw
 .tvider.com
@@ -5811,6 +5838,7 @@
 .untraceable.us
 .unwire.hk
 .uocn.org
+.up.audio
 .upbit.com
 .updatestar.com
 .upghsbc.com
@@ -6112,6 +6140,7 @@
 .wefightcensorship.org
 .wefong.com
 .weiboleak.com
+.weights.com
 .weihuo.org
 .weijingsheng.org
 .weiming.info
@@ -6290,6 +6319,7 @@
 .xbookcn.com
 .xbtce.com
 .xcafe.in
+.xcancel.com
 .xcity.jp
 .xclient.info
 .xcritic.com
@@ -6422,6 +6452,7 @@
 .yesasia.com
 .yesasia.com.hk
 .yeyeclub.com
+.yfsp.tv
 .ygto.com
 .yhcw.net
 .yibada.com
@@ -6449,6 +6480,7 @@
 .youjizz.com
 .youlucky.com
 .youmaker.com
+.youmind.com
 .youngspiration.hk
 .youpai.org
 .your-freedom.net

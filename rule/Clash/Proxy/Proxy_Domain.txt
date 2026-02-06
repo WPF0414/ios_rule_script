@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-28 02:08:10
+# UPDATED: 2026-02-06 02:20:07
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6565
+# DOMAIN-SUFFIX: 6597
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6697
+# TOTAL: 6729
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -233,6 +233,7 @@ voice.telephony.goog
 .ai-kan.net
 .ai-wen.net
 .ai.dev
+.ai.studio
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -272,6 +273,7 @@ voice.telephony.goog
 .aliengu.com
 .alive.bar
 .aljazeera.com
+.aljazeera.net
 .alkasir.com
 .all4mom.org
 .allcoin.com
@@ -342,7 +344,10 @@ voice.telephony.goog
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
+.annas-archive.in
+.annas-archive.li
 .annas-archive.org
+.annas-archive.pm
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -510,6 +515,7 @@ voice.telephony.goog
 .babylonbee.com
 .babynet.com.hk
 .backchina.com
+.backend-v2.crixet.com
 .backpackers.com.tw
 .backtotiananmen.com
 .bad.news
@@ -554,6 +560,7 @@ voice.telephony.goog
 .bbc.co.uk
 .bbc.com
 .bbc.in
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -1366,6 +1373,7 @@ voice.telephony.goog
 .dayabook.com
 .daylife.com
 .dayone.me
+.dazn.com
 .db.tt
 .dbc.hk
 .dbgjd.com
@@ -2026,6 +2034,7 @@ voice.telephony.goog
 .freess.org
 .freessh.us
 .freetcp.com
+.freeterabox.com
 .freetibet.net
 .freetibet.org
 .freetibetanheroes.org
@@ -2205,6 +2214,7 @@ voice.telephony.goog
 .gfw.press
 .gfw.report
 .gfwatch.org
+.gfwbao.com
 .gfwlist.end
 .gfwlist.start
 .gfx.ms
@@ -3741,6 +3751,7 @@ voice.telephony.goog
 .mytalkbox.com
 .myteamspeak.com
 .mytizi.com
+.mytvsuper.com
 .mywife.cc
 .mywww.biz
 .myz.info
@@ -4071,6 +4082,8 @@ voice.telephony.goog
 .onthehunt.com
 .ontrac.com
 .oojj.de
+.ooni.io
+.ooni.org
 .oopsforum.com
 .ooyala.com
 .open.com.hk
@@ -4201,6 +4214,7 @@ voice.telephony.goog
 .pdetails.com
 .pdfexpert.com
 .pdproxy.com
+.pdst.fm
 .peace.ca
 .peacefire.org
 .peacehall.com
@@ -4269,14 +4283,23 @@ voice.telephony.goog
 .pinoy-n.com
 .pinterest.at
 .pinterest.ca
+.pinterest.cl
 .pinterest.co.kr
 .pinterest.co.uk
 .pinterest.com
+.pinterest.com.au
+.pinterest.com.mx
 .pinterest.de
 .pinterest.dk
+.pinterest.es
 .pinterest.fr
+.pinterest.ie
+.pinterest.it
 .pinterest.jp
 .pinterest.nl
+.pinterest.nz
+.pinterest.ph
+.pinterest.pt
 .pinterest.se
 .pipii.tv
 .piposay.com
@@ -4741,6 +4764,7 @@ voice.telephony.goog
 .seesmic.com
 .seevpn.com
 .seezone.net
+.sef.org.tw
 .sehuatang.net
 .sehuatang.org
 .sejie.com
@@ -4845,6 +4869,7 @@ voice.telephony.goog
 .sijihuisuo.com
 .silkbook.com
 .silvergatebank.com
+.simianx.ai
 .simp.ly
 .simplecd.me
 .simplecd.org
@@ -5186,6 +5211,7 @@ voice.telephony.goog
 .tagwa.org.au
 .tagwalk.com
 .tahr.org.tw
+.tails.net
 .taipei.gov.tw
 .taipeisociety.org
 .taipeitimes.com
@@ -5643,6 +5669,7 @@ voice.telephony.goog
 .tv.com
 .tvants.com
 .tvb.com
+.tvbanywhere.com
 .tvboxnow.com
 .tvbs.com.tw
 .tvider.com
@@ -5820,6 +5847,7 @@ voice.telephony.goog
 .untraceable.us
 .unwire.hk
 .uocn.org
+.up.audio
 .upbit.com
 .updatestar.com
 .upghsbc.com
@@ -6121,6 +6149,7 @@ voice.telephony.goog
 .wefightcensorship.org
 .wefong.com
 .weiboleak.com
+.weights.com
 .weihuo.org
 .weijingsheng.org
 .weiming.info
@@ -6299,6 +6328,7 @@ voice.telephony.goog
 .xbookcn.com
 .xbtce.com
 .xcafe.in
+.xcancel.com
 .xcity.jp
 .xclient.info
 .xcritic.com
@@ -6431,6 +6461,7 @@ voice.telephony.goog
 .yesasia.com
 .yesasia.com.hk
 .yeyeclub.com
+.yfsp.tv
 .ygto.com
 .yhcw.net
 .yibada.com
@@ -6458,6 +6489,7 @@ voice.telephony.goog
 .youjizz.com
 .youlucky.com
 .youmaker.com
+.youmind.com
 .youngspiration.hk
 .youpai.org
 .your-freedom.net

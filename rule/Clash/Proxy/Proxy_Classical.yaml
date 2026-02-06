@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-28 02:08:10
+# UPDATED: 2026-02-06 02:20:07
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6565
+# DOMAIN-SUFFIX: 6597
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6697
+# TOTAL: 6729
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -234,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
   - DOMAIN-SUFFIX,ai.dev
+  - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aiosearch.com
   - DOMAIN-SUFFIX,aiph.net
   - DOMAIN-SUFFIX,airasia.com
@@ -273,6 +274,7 @@ payload:
   - DOMAIN-SUFFIX,aliengu.com
   - DOMAIN-SUFFIX,alive.bar
   - DOMAIN-SUFFIX,aljazeera.com
+  - DOMAIN-SUFFIX,aljazeera.net
   - DOMAIN-SUFFIX,alkasir.com
   - DOMAIN-SUFFIX,all4mom.org
   - DOMAIN-SUFFIX,allcoin.com
@@ -343,7 +345,10 @@ payload:
   - DOMAIN-SUFFIX,animecrazy.net
   - DOMAIN-SUFFIX,animeshippuuden.com
   - DOMAIN-SUFFIX,aniscartujo.com
+  - DOMAIN-SUFFIX,annas-archive.in
+  - DOMAIN-SUFFIX,annas-archive.li
   - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,annas-archive.pm
   - DOMAIN-SUFFIX,annas-archive.se
   - DOMAIN-SUFFIX,annatam.com
   - DOMAIN-SUFFIX,anobii.com
@@ -511,6 +516,7 @@ payload:
   - DOMAIN-SUFFIX,babylonbee.com
   - DOMAIN-SUFFIX,babynet.com.hk
   - DOMAIN-SUFFIX,backchina.com
+  - DOMAIN-SUFFIX,backend-v2.crixet.com
   - DOMAIN-SUFFIX,backpackers.com.tw
   - DOMAIN-SUFFIX,backtotiananmen.com
   - DOMAIN-SUFFIX,bad.news
@@ -555,6 +561,7 @@ payload:
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
   - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbchat.tv
   - DOMAIN-SUFFIX,bbci.co.uk
@@ -1367,6 +1374,7 @@ payload:
   - DOMAIN-SUFFIX,dayabook.com
   - DOMAIN-SUFFIX,daylife.com
   - DOMAIN-SUFFIX,dayone.me
+  - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,dbc.hk
   - DOMAIN-SUFFIX,dbgjd.com
@@ -2027,6 +2035,7 @@ payload:
   - DOMAIN-SUFFIX,freess.org
   - DOMAIN-SUFFIX,freessh.us
   - DOMAIN-SUFFIX,freetcp.com
+  - DOMAIN-SUFFIX,freeterabox.com
   - DOMAIN-SUFFIX,freetibet.net
   - DOMAIN-SUFFIX,freetibet.org
   - DOMAIN-SUFFIX,freetibetanheroes.org
@@ -2206,6 +2215,7 @@ payload:
   - DOMAIN-SUFFIX,gfw.press
   - DOMAIN-SUFFIX,gfw.report
   - DOMAIN-SUFFIX,gfwatch.org
+  - DOMAIN-SUFFIX,gfwbao.com
   - DOMAIN-SUFFIX,gfwlist.end
   - DOMAIN-SUFFIX,gfwlist.start
   - DOMAIN-SUFFIX,gfx.ms
@@ -3742,6 +3752,7 @@ payload:
   - DOMAIN-SUFFIX,mytalkbox.com
   - DOMAIN-SUFFIX,myteamspeak.com
   - DOMAIN-SUFFIX,mytizi.com
+  - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,mywife.cc
   - DOMAIN-SUFFIX,mywww.biz
   - DOMAIN-SUFFIX,myz.info
@@ -4072,6 +4083,8 @@ payload:
   - DOMAIN-SUFFIX,onthehunt.com
   - DOMAIN-SUFFIX,ontrac.com
   - DOMAIN-SUFFIX,oojj.de
+  - DOMAIN-SUFFIX,ooni.io
+  - DOMAIN-SUFFIX,ooni.org
   - DOMAIN-SUFFIX,oopsforum.com
   - DOMAIN-SUFFIX,ooyala.com
   - DOMAIN-SUFFIX,open.com.hk
@@ -4202,6 +4215,7 @@ payload:
   - DOMAIN-SUFFIX,pdetails.com
   - DOMAIN-SUFFIX,pdfexpert.com
   - DOMAIN-SUFFIX,pdproxy.com
+  - DOMAIN-SUFFIX,pdst.fm
   - DOMAIN-SUFFIX,peace.ca
   - DOMAIN-SUFFIX,peacefire.org
   - DOMAIN-SUFFIX,peacehall.com
@@ -4270,14 +4284,23 @@ payload:
   - DOMAIN-SUFFIX,pinoy-n.com
   - DOMAIN-SUFFIX,pinterest.at
   - DOMAIN-SUFFIX,pinterest.ca
+  - DOMAIN-SUFFIX,pinterest.cl
   - DOMAIN-SUFFIX,pinterest.co.kr
   - DOMAIN-SUFFIX,pinterest.co.uk
   - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pinterest.com.au
+  - DOMAIN-SUFFIX,pinterest.com.mx
   - DOMAIN-SUFFIX,pinterest.de
   - DOMAIN-SUFFIX,pinterest.dk
+  - DOMAIN-SUFFIX,pinterest.es
   - DOMAIN-SUFFIX,pinterest.fr
+  - DOMAIN-SUFFIX,pinterest.ie
+  - DOMAIN-SUFFIX,pinterest.it
   - DOMAIN-SUFFIX,pinterest.jp
   - DOMAIN-SUFFIX,pinterest.nl
+  - DOMAIN-SUFFIX,pinterest.nz
+  - DOMAIN-SUFFIX,pinterest.ph
+  - DOMAIN-SUFFIX,pinterest.pt
   - DOMAIN-SUFFIX,pinterest.se
   - DOMAIN-SUFFIX,pipii.tv
   - DOMAIN-SUFFIX,piposay.com
@@ -4742,6 +4765,7 @@ payload:
   - DOMAIN-SUFFIX,seesmic.com
   - DOMAIN-SUFFIX,seevpn.com
   - DOMAIN-SUFFIX,seezone.net
+  - DOMAIN-SUFFIX,sef.org.tw
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,sejie.com
@@ -4846,6 +4870,7 @@ payload:
   - DOMAIN-SUFFIX,sijihuisuo.com
   - DOMAIN-SUFFIX,silkbook.com
   - DOMAIN-SUFFIX,silvergatebank.com
+  - DOMAIN-SUFFIX,simianx.ai
   - DOMAIN-SUFFIX,simp.ly
   - DOMAIN-SUFFIX,simplecd.me
   - DOMAIN-SUFFIX,simplecd.org
@@ -5187,6 +5212,7 @@ payload:
   - DOMAIN-SUFFIX,tagwa.org.au
   - DOMAIN-SUFFIX,tagwalk.com
   - DOMAIN-SUFFIX,tahr.org.tw
+  - DOMAIN-SUFFIX,tails.net
   - DOMAIN-SUFFIX,taipei.gov.tw
   - DOMAIN-SUFFIX,taipeisociety.org
   - DOMAIN-SUFFIX,taipeitimes.com
@@ -5644,6 +5670,7 @@ payload:
   - DOMAIN-SUFFIX,tv.com
   - DOMAIN-SUFFIX,tvants.com
   - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-SUFFIX,tvbanywhere.com
   - DOMAIN-SUFFIX,tvboxnow.com
   - DOMAIN-SUFFIX,tvbs.com.tw
   - DOMAIN-SUFFIX,tvider.com
@@ -5821,6 +5848,7 @@ payload:
   - DOMAIN-SUFFIX,untraceable.us
   - DOMAIN-SUFFIX,unwire.hk
   - DOMAIN-SUFFIX,uocn.org
+  - DOMAIN-SUFFIX,up.audio
   - DOMAIN-SUFFIX,upbit.com
   - DOMAIN-SUFFIX,updatestar.com
   - DOMAIN-SUFFIX,upghsbc.com
@@ -6122,6 +6150,7 @@ payload:
   - DOMAIN-SUFFIX,wefightcensorship.org
   - DOMAIN-SUFFIX,wefong.com
   - DOMAIN-SUFFIX,weiboleak.com
+  - DOMAIN-SUFFIX,weights.com
   - DOMAIN-SUFFIX,weihuo.org
   - DOMAIN-SUFFIX,weijingsheng.org
   - DOMAIN-SUFFIX,weiming.info
@@ -6300,6 +6329,7 @@ payload:
   - DOMAIN-SUFFIX,xbookcn.com
   - DOMAIN-SUFFIX,xbtce.com
   - DOMAIN-SUFFIX,xcafe.in
+  - DOMAIN-SUFFIX,xcancel.com
   - DOMAIN-SUFFIX,xcity.jp
   - DOMAIN-SUFFIX,xclient.info
   - DOMAIN-SUFFIX,xcritic.com
@@ -6432,6 +6462,7 @@ payload:
   - DOMAIN-SUFFIX,yesasia.com
   - DOMAIN-SUFFIX,yesasia.com.hk
   - DOMAIN-SUFFIX,yeyeclub.com
+  - DOMAIN-SUFFIX,yfsp.tv
   - DOMAIN-SUFFIX,ygto.com
   - DOMAIN-SUFFIX,yhcw.net
   - DOMAIN-SUFFIX,yibada.com
@@ -6459,6 +6490,7 @@ payload:
   - DOMAIN-SUFFIX,youjizz.com
   - DOMAIN-SUFFIX,youlucky.com
   - DOMAIN-SUFFIX,youmaker.com
+  - DOMAIN-SUFFIX,youmind.com
   - DOMAIN-SUFFIX,youngspiration.hk
   - DOMAIN-SUFFIX,youpai.org
   - DOMAIN-SUFFIX,your-freedom.net
