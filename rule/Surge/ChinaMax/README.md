@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2026-02-06 02:21:19
+最后更新时间：2026-06-10 02:48:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 308  | 
+| DOMAIN | 304  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 116075  | 
+| DOMAIN-SUFFIX | 112818  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8268  | 
-| IP-CIDR6 | 4269  | 
+| IP-CIDR | 8197  | 
+| IP-CIDR6 | 4129  | 
 | PROCESS-NAME | 12  | 
 | USER-AGENT | 65  | 
-| TOTAL | 129011  | 
+| TOTAL | 125539  | 
 
 
 ## Surge 
@@ -454,6 +454,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
+- https://ruleset.isagood.day/alibaba.conf
+- https://ruleset.isagood.day/bilibili.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
