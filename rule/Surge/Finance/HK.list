@@ -1,0 +1,53 @@
+# NAME: HK
+# AUTHOR: WPF0414
+# UPDATED: 2026-08-05
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
+
+# 中国银行
+DOMAIN-SUFFIX,bochk.com
+
+# 汇丰香港
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hk.hsbc.com
+
+# 恒生银行
+DOMAIN-SUFFIX,hangseng.com
+
+# 工银亚洲
+DOMAIN-SUFFIX,icbcasia.com
+
+# 象象银行
+DOMAIN-SUFFIX,elebank.com
+
+# 汇立
+DOMAIN-SUFFIX,welab.bank
+
+# 建亚
+DOMAIN-SUFFIX,asia.ccb.com
+
+# 招商永隆
+DOMAIN-SUFFIX,cmbwinglungbank.com
+
+# 蚂蚁银行
+DOMAIN-SUFFIX,antbank.hk
+
+# 信银国际
+DOMAIN-SUFFIX,cncbinternational.com
+
+# 花旗香港
+DOMAIN-SUFFIX,citibank.com.hk
+
+# 星展香港
+DOMAIN-SUFFIX,dbs.com.hk
+
+# 渣打香港
+DOMAIN-SUFFIX,sc.com.hk
+DOMAIN-SUFFIX,sc.com
+
+# 众安银行
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,cdn.zaticdn.com
+
+# FSM
+DOMAIN-SUFFIX,fsmone.com.my
