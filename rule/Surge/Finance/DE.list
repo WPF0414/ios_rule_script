@@ -2,8 +2,8 @@
 # AUTHOR: WPF0414
 # REPO: https://github.com/WPF0414/ios_rule_script
 # UPDATED: 2026-08-05 18:03
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# DOMAIN-SUFFIX: 10
+# TOTAL: 19
 
 # N26
 DOMAIN-SUFFIX,tech26.de
@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,jeton.com
 # fiat24
 DOMAIN-SUFFIX,fiat24.com
 
+# bonify
+DOMAIN-SUFFIX,bonify.de
+
 # bybit
 DOMAIN,static.bymj.io
 DOMAIN,content.byabcd.com
@@ -36,6 +39,3 @@ DOMAIN,api3.byabcde.com
 DOMAIN,api3.byd3c3.com
 DOMAIN-KEYWORD,bycsi
 DOMAIN-KEYWORD,bybit
-
-# bonify
-DOMAIN,bonify.de
