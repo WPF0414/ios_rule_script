@@ -1,0 +1,11 @@
+# NAME: Apple Intelligence
+# AUTHOR: WPF0414
+# REPO: https://github.com/WPF0414/ios_rule_script
+# UPDATED: 2026-08-05 14:47
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
