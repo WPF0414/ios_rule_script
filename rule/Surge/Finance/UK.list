@@ -1,0 +1,54 @@
+# NAME: UK
+# AUTHOR: WPF0414
+# REPO: https://github.com/WPF0414/ios_rule_script
+# UPDATED: 2025-08-05 18:08
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
+
+# zable
+DOMAIN-SUFFIX,zable.com
+
+# lloydsbank
+DOMAIN-SUFFIX,lloydsbank.com
+
+# curve
+DOMAIN-SUFFIX,curve.com
+
+# kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,krak.app
+
+# worldremit
+DOMAIN-SUFFIX,worldremit.com
+
+# lemfi
+DOMAIN-SUFFIX,lemfi.com
+DOMAIN-SUFFIX,lemonade.finance
+
+# hsbc uk
+DOMAIN-SUFFIX,hsbc.co.uk
+
+# chase uk
+DOMAIN-SUFFIX,chase.co.uk
+
+# monzo
+DOMAIN-SUFFIX,monzo.com
+
+# altery
+DOMAIN-SUFFIX,altery.com
+
+# monese
+DOMAIN-SUFFIX,monese.com
+
+# wise
+DOMAIN-SUFFIX,wise.com
+
+# ifastgb
+DOMAIN-SUFFIX,ifastgb.com  
+DOMAIN-SUFFIX,ifastcorp.com
+
+# barclays
+DOMAIN-SUFFIX,barclays.co.uk
+
+# experian uk
+DOMAIN-SUFFIX,experian.co.uk
