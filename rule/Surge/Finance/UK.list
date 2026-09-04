@@ -2,8 +2,8 @@
 # AUTHOR: WPF0414
 # REPO: https://github.com/WPF0414/ios_rule_script
 # UPDATED: 2025-08-05 18:08
-# DOMAIN-SUFFIX: 18
-# TOTAL: 18
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 
 # zable
 DOMAIN-SUFFIX,zable.com
@@ -52,3 +52,6 @@ DOMAIN-SUFFIX,barclays.co.uk
 
 # experian uk
 DOMAIN-SUFFIX,experian.co.uk
+
+# quidco
+DOMAIN-SUFFIX,quidco.com
